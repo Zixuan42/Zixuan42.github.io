@@ -2,3 +2,13 @@ body{
     background-color: skyblue;
     margin: auto;
 }
+.header{
+    background-color: greenyellow;
+    color: white;
+    height: 90px;
+}
+.nav{
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
